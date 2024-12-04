@@ -120,9 +120,9 @@ Tu tarea es crear y administrar el repositorio siguiendo las instrucciones que t
    - Asegúrate de que todos los archivos estén en su lugar y realiza un `push` final al remoto.  
    - Realiza una limpieza eliminando la rama `feature/documentacion`.
 
-------------------------FOTOOOOOOOOOOOOOOOOOOOOOOOOO
+ ![CAPTURA DE PANTALLA](capturas/CAP13.png)
 2. **Explora el proyecto desde el terminal:**  
    - Usa el comando necesario de Linux para listar el contenido de cada directorio.  
    - Muestra el contenido de los archivos finales con el comando necesario de Linux.
 
-------------------------FOTOOOOOOOOOOOOOOOOOOOOOOOOO
+![CAPTURA DE PANTALLA](capturas/CAP14.png)
