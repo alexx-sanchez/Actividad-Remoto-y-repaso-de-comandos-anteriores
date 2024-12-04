@@ -34,6 +34,7 @@ Tu tarea es crear y administrar el repositorio siguiendo las instrucciones que t
    - Haz un `git add` de todos los archivos y realiza un commit inicial con el mensaje:  
      `Inicio del proyecto con README.md y estructura básica`.
 ![CAPTURA DE PANTALLA](capturas/CAP4.png)
+![CAPTURA DE PANTALLA](capturas/CAP5.png)
 ---
 
 ### **Parte 2: Colaboración en Equipo**
@@ -77,7 +78,7 @@ Tu tarea es crear y administrar el repositorio siguiendo las instrucciones que t
   
      
          - Vincula el repositorio remoto con el repositorio local.
-    ![CAPTURA DE PANTALLA](capturas/CAP5.png)
+    ![CAPTURA DE PANTALLA](capturas/CAP6.png)
 
 2. **Actualización del Proyecto:**
    - Crea una nueva rama llamada `feature/documentacion` y cámbiate a ella.
@@ -86,21 +87,21 @@ Tu tarea es crear y administrar el repositorio siguiendo las instrucciones que t
      - Haz un commit con el mensaje:  
        `Agregada documentación inicial del proyecto`.
    - Cambia a la rama `main` y usa `git diff` para comparar las diferencias entre `main` y `feature/documentacion`.
-![CAPTURA DE PANTALLA](capturas/CAP6.png)
+![CAPTURA DE PANTALLA](capturas/CAP7.png)
 
 
 3. **Sincronización:**  
    - Desde la rama `main`, realiza un `git pull` para simular la descarga de cambios del remoto. Si hay conflictos, resuélvelos.
-![CAPTURA DE PANTALLA](capturas/CAP7.png)
+![CAPTURA DE PANTALLA](capturas/CAP8.png)
 ---
 
 ### **Parte 3: Gestión de Archivos y Cambios**
 1. **Ediciones rápidas:**  
    - Crea un nuevo archivo llamado `src/app.py` con un mensaje básico (`print("Hola, mundo!")`).
    - Haz un `add` y luego un `commit`. Verifica su estado con ` status` o con algún comando alias que hayas creado tú.
-![CAPTURA DE PANTALLA](capturas/CAP8.png)
+![CAPTURA DE PANTALLA](capturas/CAP9.png)
    - Visualiza el historial de `commit` con `log` o con algún comando alias que hayas creado tú.
-   ![CAPTURA DE PANTALLA](capturas/CAP9.png)
+   ![CAPTURA DE PANTALLA](capturas/CAP10.png)
 
    - Si has utilizado comandos alias, indica el equivalente al comando alias. Por ejemplo, mi comando alias `git s` es igual al comando `git status --short`.
 
@@ -112,7 +113,7 @@ Tu tarea es crear y administrar el repositorio siguiendo las instrucciones que t
    - Desde `main`, haz un merge de `feature/documentacion`.  
    - Usa `log` o un alias para verificar los cambios realizados y el historial.
 ![CAPTURA DE PANTALLA](capturas/CAP11.png)
- ![CAPTURA DE PANTALLA](capturas/CAP10.png)
+ ![CAPTURA DE PANTALLA](capturas/CAP11.png)
 
 
 ---
