@@ -1,0 +1,13 @@
+# Ignorar archivos de log
+*.log
+
+# Ignorar carpetas y archivos temporales
+tmp/
+temp/
+*.tmp
+
+# Ignorar directorios específicos de configuración temporal (ejemplos)
+.vscode/
+.idea/
+*.swp
+.DS_Store
