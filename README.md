@@ -107,24 +107,22 @@ Tu tarea es crear y administrar el repositorio siguiendo las instrucciones que t
 
 2. **Borrado y recuperación:**  
    - Borra el archivo `src/app.py` usando un comando de terminal. Recupera el archivo con el comando necesario, lo vimos la semana pasada.
-    ![CAPTURA DE PANTALLA](capturas/CAP10.png)
+ ![CAPTURA DE PANTALLA](capturas/CAP11.png)
 
 3. **Combina ramas:**  
    - Desde `main`, haz un merge de `feature/documentacion`.  
    - Usa `log` o un alias para verificar los cambios realizados y el historial.
-![CAPTURA DE PANTALLA](capturas/CAP11.png)
- ![CAPTURA DE PANTALLA](capturas/CAP11.png)
-
-
+ ![CAPTURA DE PANTALLA](capturas/CAP12.png)
 ---
 
 ### **Parte 4: Entrega del Proyecto**
 1. **Últimos pasos:**  
    - Asegúrate de que todos los archivos estén en su lugar y realiza un `push` final al remoto.  
    - Realiza una limpieza eliminando la rama `feature/documentacion`.
-![CAPTURA DE PANTALLA](capturas/CAP11.png)
 
+------------------------FOTOOOOOOOOOOOOOOOOOOOOOOOOO
 2. **Explora el proyecto desde el terminal:**  
    - Usa el comando necesario de Linux para listar el contenido de cada directorio.  
    - Muestra el contenido de los archivos finales con el comando necesario de Linux.
-![CAPTURA DE PANTALLA](capturas/CAP12.png)
+
+------------------------FOTOOOOOOOOOOOOOOOOOOOOOOOOO
